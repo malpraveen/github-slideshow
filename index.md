@@ -18,8 +18,11 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Welcome
-2. My world
+1. `Welcome`
+2. _My world_
+3. **Testing**
+
+
 
 **Bold** and _Italic_ and `Code` text
 
